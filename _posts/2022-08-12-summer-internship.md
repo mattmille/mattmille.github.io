@@ -2,7 +2,7 @@
 layout: post
 title: "2022 Summer Internship Reflection"
 date: 2022-08-12 12:00:00 -0500
-categories: Work
+categories: work
 tags: work internship project team database django python zeta
 ---
 
