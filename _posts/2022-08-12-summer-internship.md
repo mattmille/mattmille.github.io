@@ -1,8 +1,8 @@
 ---
 title: "2022 Summer Internship Reflection"
 date: 2022-08-12 12:00:00
-categories: work
-tags: work internship project team database django python zeta
+categories: [Work Experience, Zeta]
+tags: [work, internship, project, team, database, django, python, zeta]
 ---
 
 Summer 2022 Internship reflection.
